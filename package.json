@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/melscoop-test/ACC_05-PG20-CRS/issues"
   },
-  "homepage": "https://github.com/melscoop-test/ACC_05-PG20-CRS#readme"
+  "homepage": "https://github.com/melscoop-test/ACC_05-PG20-CRS#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.7"
+  }
 }
