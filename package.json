@@ -1,20 +1,27 @@
-{
-  "name": "acc_05-pg20-crs",
+{ "name":"acc_05-pg20-crs",
   "version": "1.0.0",
-  "description": "composite run steps test",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"This is a test by melscoop-test\"",
+    "build": "echo \"Add your build script here when you're ready\""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/melscoop-test/ACC_05-PG20-CRS.git"
+    "url": "git+https://github.com/melscoop-test/acc_05-pg20-crs.git"
   },
   "keywords": [],
-  "author": "melanie <melscoop@github.com>",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/melscoop-test/ACC_05-PG20-CRS/issues"
+    "url": "https://github.com/melscoop-test/acc_05-pg20-crs/issues"
   },
-  "homepage": "https://github.com/melscoop-test/ACC_05-PG20-CRS#readme"
+  "homepage": "https://github.com/melscoop-test/acc_05-pg20-crs#readme",
+  "dependencies": {
+    "mocha": "^8.3.2",
+    "typescript": "^4.2.4"
+  },
+  "devDependencies": {
+    "ts-node": "^9.1.1"
+  }
 }
